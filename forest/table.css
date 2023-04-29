@@ -1,0 +1,32 @@
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th,td {
+    border-left: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    background-color: #ddd;background-color: #ddd;
+  }
+  
+
+  body {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(figure.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+  
+  
